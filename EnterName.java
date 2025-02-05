@@ -21,7 +21,6 @@ public class EnterName {
     System.out.println("You are " + Age + " years old.");
     System.out.println("Your height is " + Height + " meters.");
     System.out.println("Do you like Java? " + likeJava);
-    System.out.println("Do you like Java? " + likeJava);
     
         Sc.close();
         }
