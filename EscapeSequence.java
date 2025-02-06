@@ -17,6 +17,6 @@ public class EscapeSequence {
 
         System.out.println("This is a form feed:\fNext line");
 
-        System.out.println("Unicode character: \u0052\u0069\u0073\u0068\u0061\u0076"); // Prints 'Hello'
+        System.out.println("Unicode character: \u0052\u0069\u0073\u0068\u0061\u0076"); // Prints 'Rishav'
     }
 }
