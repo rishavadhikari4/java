@@ -12,7 +12,7 @@ public class AgeGrupCheck {
         System.out.println("teenager");
     }
     else if(Age>=20&&Age<=64){
-        System.out.println("Addult");
+        System.out.println("Adult");
 
     }
     else{
